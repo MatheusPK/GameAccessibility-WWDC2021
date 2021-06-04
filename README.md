@@ -1,1 +1,1 @@
-# GameAccessibility-WWDC2021
+# GameAccessibility-WWDC2021[ACCEPTED]
